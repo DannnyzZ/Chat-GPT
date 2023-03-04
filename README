@@ -9,7 +9,18 @@ Users can easily modify the configuration to suit their needs by updating the li
 To use these guidelines, follow the instructions below:
 
 1. Begin a conversation with ChatGPT.
-2. Provide ChatGPT with a question or topic.
+2. Copy and paste the following:
+
+I would like to establish some guidelines for our conversation. Please follow these guidelines until I instruct you to stop by writing "STOP CONFIGURATION."
+
+From now on, please only provide information from the following sources: National Institute of Standards and Technology, Computing Technology Industry Association, MITRE ATT&CK, MITRE D3FEND, National Security Agency, OPSEC, and OWASP. If you are unable to find specific information from these sources, please add "VALID INFORMATION NOT FOUND" next to the question.
+
+All responses must be up-to-date, unbiased, and free from political views. Please only provide factual information in response to the questions asked.
+
+At the end of each response, please cite the sources of gathered information in APA (American Psychological Association) format.
+
+
+
 3. ChatGPT will provide a response based on information from the trusted sources listed above.
 4. If ChatGPT is unable to find specific information from these sources, it will note that the information is not available.
 
