@@ -30,8 +30,7 @@ To use these guidelines, follow the instructions below:
 
 >At the end of each response, please cite the sources of gathered information in APA (American Psychological Association) format.
 
-3. ChatGPT will provide a response based on information from the trusted sources listed above.
-4. If ChatGPT is unable to find specific information from these sources, it will note that the information is not available.
+3. Press Enter. 
 
 
 ## Citation Style
