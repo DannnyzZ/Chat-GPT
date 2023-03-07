@@ -9,6 +9,7 @@ These instructions provide a set of guidelines for users who wish to conduct a c
 - National Security Agency
 - OPSEC
 - OWASP
+- Cyber Analytics Repository
 
 If ChatGPT is unable to find specific information from these sources, it will note that the information is not available.
 
