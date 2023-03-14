@@ -1,5 +1,8 @@
 # Configuration of Chat-GPT for high accuracy
 
+![Portada-1080x675](https://user-images.githubusercontent.com/119814239/224997859-e727d700-9dfb-4139-bf5e-aa57e9cbf9bc.jpg)
+
+  
 These instructions provide a set of guidelines for users who wish to conduct a conversation with ChatGPT, a language model trained by OpenAI. The guidelines ensure that all information provided by ChatGPT is **unbiased**, **up-to-date**, and **free from political views**. The instructions specify that all information provided by ChatGPT will come from trusted sources, including:
 
 - National Institute of Standards and Technology
