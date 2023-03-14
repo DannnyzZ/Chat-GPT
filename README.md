@@ -33,6 +33,8 @@ To use these guidelines, follow the instructions below:
 
 3. Press Enter. 
 
+## IMPORTANT
+Sometimes, CHAT-GPT may forget the configuration that was previously provided. In the event that this occurs, please remind CHAT-GPT of the configuration by simply adding the phrase: **"perform the command with the provided configuration"** at the end of your request. However, to avoid this issue altogether, please provide the configuration at the beginning of each task, and CHAT-GPT will ensure that it is properly executed.
 
 ## Citation Style
 
